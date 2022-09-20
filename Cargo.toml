@@ -7,7 +7,7 @@ license = "Apache-2.0"
 repository = "https://github.com/hyperschwartz/result-extensions"
 description = "A simple rust library that provides extensions for the Result<T,E> type"
 keywords = ["util", "extensions", "result"]
-categories = ["util", "trait"]
+categories = ["rust-patterns"]
 include = ["src/", "LICENSE", "README.md"]
 
 [features]
