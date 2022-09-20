@@ -1,0 +1,14 @@
+[package]
+name = "result-extensions"
+version = "1.0.0"
+authors = ["Jake Schwartz <jschwartz@figure.com>"]
+edition = "2021"
+license = "Apache-2.0"
+repository = "https://github.com/hyperschwartz/result-extensions"
+description = "A simple rust library that provides extensions for the Result<T,E> type"
+keywords = ["util", "extensions", "result"]
+categories = ["util", "trait"]
+include = ["src/", "LICENSE", "README.md"]
+
+[features]
+library = []
